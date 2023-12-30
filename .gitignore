@@ -36,6 +36,7 @@ ExportedObj/
 *.opendb
 *.VC.db
 *.DS_Store
+*.dll
 
 *.pidb.meta
 *.pdb.meta
